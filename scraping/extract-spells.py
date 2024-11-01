@@ -18,34 +18,36 @@ MOCK_SORT = None
 #MOCK_LIST = "mocks/sorts-chaman.html" # décommenter pour tester avec une liste pré-téléchargée
 #MOCK_SORT = "mocks/sort1.html"       # décommenter pour tester avec un sort pré-téléchargé
 
-URLs = [{'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts.ashx", 'list': False},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20(suite).ashx", 'list': False},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20(fin).ashx", 'list': False},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20formules%20dalchimiste.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20dantipaladin.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20bardes.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.liste%20des%20sorts%20de%20chaman.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20conjurateurs.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20druides.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20densorceleursmagiciens.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.liste%20des%20sorts%20dhypnotiseur.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20dinquisiteur.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20d%c3%a9l%c3%a9mentaliste.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20magus.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20m%c3%a9dium.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sorts%20doccultiste.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20paladins.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20pr%c3%aatres.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sorts%20de%20psychiste.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20r%c3%b4deurs.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20Sanguin.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20sorci%c3%a8re.ashx", 'list': True},
-        {'URL': "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sorts%20de%20spirite.ashx", 'list': True},
+URLs = [{'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts.ashx", 'list': False},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20(suite).ashx", 'list': False},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20(fin).ashx", 'list': False},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20formules%20dalchimiste.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20dantipaladin.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20bardes.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.liste%20des%20sorts%20de%20chaman.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20conjurateurs.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20druides.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20densorceleursmagiciens.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.liste%20des%20sorts%20dhypnotiseur.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20dinquisiteur.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20d%c3%a9l%c3%a9mentaliste.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20magus.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20m%c3%a9dium.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sorts%20doccultiste.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20paladins.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20pr%c3%aatres.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sorts%20de%20psychiste.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20r%c3%b4deurs.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20Sanguin.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Liste%20des%20sorts%20de%20sorci%c3%a8re.ashx", 'list': True},
+        {'URL': "https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sorts%20de%20spirite.ashx", 'list': True},
         ]
 
 FIELDS = ['Nom', 'École', 'Niveau', 'Portée', 'Cible ou zone d\'effet', 'Temps d\'incantation', 'Composantes', 'Durée', 'Jet de sauvegarde', 'Résistance à la magie', 'Description', 'DescriptionHTML', 'Source', 'Référence' ]
 MATCH = ['Référence']
 IGNORE = ['Source']
+
+HDR = {       'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0'}
 
 
 #
@@ -64,14 +66,14 @@ def extractText(list):
 
 visited = []
 for u in URLs:
+    print("Extraction des sorts: %s" % u['URL'])
     if MOCK_LIST:
         parsed_html = BeautifulSoup(open(MOCK_LIST),features="lxml").find(id='PageContentDiv')
     else:
-        parsed_html = BeautifulSoup(urllib.request.urlopen(u['URL']).read(),features="lxml").find(id='PageContentDiv')
-
+        req = urllib.request.Request(url=u['URL'], headers=HDR)
+        soup = BeautifulSoup(urllib.request.urlopen(req).read(),features="lxml")
+        parsed_html = BeautifulSoup(urllib.request.urlopen(req).read(),features="lxml").find(id='PageContentDiv')
     listSorts = []
-    
-    print("Extraction des sorts: %s" % u['URL'])
     
     if u['list']:
         for el in parsed_html.children:
@@ -104,7 +106,7 @@ for u in URLs:
             source = getValidSource(source_search.group(1), False)
         
         print("Sort %s (%s)" % (title, source))
-        pageURL = "http://www.pathfinder-fr.org/Wiki/" + link
+        pageURL = "https://www.pathfinder-fr.org/Wiki/" + link
         
         if pageURL in visited:
           continue
@@ -118,7 +120,8 @@ for u in URLs:
         if MOCK_SORT:
             content = BeautifulSoup(open(MOCK_SORT),features="lxml").body.find(id='PageContentDiv')
         else:
-            content = BeautifulSoup(urllib.request.urlopen(pageURL).read(),features="lxml").body.find(id='PageContentDiv')
+            req = urllib.request.Request(url=pageURL, headers=HDR)
+            content = BeautifulSoup(urllib.request.urlopen(req).read(),features="lxml").body.find(id='PageContentDiv')
         
         # lire les attributs
         text = ""
