@@ -1,0 +1,378 @@
+#
+# Ces données ont été extraites du site www.pathfinder-fr.org
+# Ce fichier utilise des marques déposées et/ou des droits d’auteurs qui sont la propriété 
+# de Black Book Editions et de Paizo Publishing 
+#
+# Voir: 
+#  - http://www.pathfinder-fr.org/Wiki/PCUP.ashx
+#  - http://paizo.com/communityuse
+#  - http://www.black-book-editions.fr/texte.php?id=6
+#
+
+- Nom: Suprématie aérienne (Sur)
+  École: Air
+  Description: Le magicien gagne un bonus d’altération de +2 aux tests de Vol. Ce
+    bonus augmente de +1 par tranche de cinq niveaux de magicien. De plus, il peut
+    lancer feuille morte à volonté sur lui-même. Au niveau 5, le magicien peut lancer
+    lévitation à volonté sur lui-même. Au niveau 10, il peut lancer vol à volonté
+    sur lui-même. Au niveau 20, chaque fois qu’il effectue un test de Vol, le magicien
+    peut considérer que le dé indique un 20 naturel.
+  DescriptionHTML: ' Le magicien gagne un bonus d’altération de +2 aux tests de
+    Vol. Ce bonus augmente de +1 par tranche de cinq niveaux de magicien. De plus,
+    il peut lancer feuille morte à volonté sur lui-même. Au niveau 5, le magicien
+    peut lancer lévitation à volonté sur lui-même. Au niveau 10, il peut lancer vol
+    à volonté sur lui-même. Au niveau 20, chaque fois qu’il effectue un test de Vol,
+    le magicien peut considérer que le dé indique un 20 naturel. '
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.air%20(%c3%a9cole).ashx
+  
+- Nom: Cyclone (Sur)
+  École: Air
+  Description: Au niveau 8, le magicien peut s’entourer de vents violents par une
+    action simple. Ce cyclone a un rayon pouvant aller jusqu’à 3 m (2 c) et une hauteur
+    maximale de 3 m (2 c) par niveau de magicien. Les attaques à distance qui passent
+    à travers lui échouent automatiquement. Toutes les créatures volantes qui traversent
+    le cyclone doivent effectuer un test de Vol pour éviter de tomber et de subir
+    des dégâts de chute (la créature ne peut pas tenter un test de Volonté pour annuler
+    ou réduire ces dégâts). Les créatures au sol ne peuvent pas traverser le cyclone
+    sans d’abord réussir un test de Force contre un DD égal à 10 + le NLS du magicien.
+    Le cyclone est légèrement visible et peut être repéré avec un test de Perception
+    de DD 15. Le magicien peut utiliser cette capacité pendant un nombre de rounds
+    par jour égal à son niveau de magicien. Ces rounds ne doivent pas forcément être
+    consécutifs.
+  DescriptionHTML: " Au niveau 8, le magicien peut s’entourer de vents violents\
+    \ par une action simple. Ce cyclone a un rayon pouvant aller jusqu’à 3 m (2 c)\
+    \ et une hauteur maximale de 3 m (2 c) par niveau de magicien. Les attaques à\
+    \ distance qui passent à travers lui échouent automatiquement. Toutes les créatures\
+    \ volantes qui traversent le cyclone doivent effectuer un test de Vol pour éviter\
+    \ de tomber et de subir des dégâts de chute (la créature ne peut pas tenter un\
+    \ test de Volonté pour annuler ou réduire ces dégâts). Les créatures au sol ne\
+    \ peuvent pas traverser le cyclone sans d’abord réussir un test de Force contre\
+    \ un DD égal à 10 + le NLS du magicien. Le cyclone est légèrement visible et peut\
+    \ être repéré avec un test de Perception de DD 15. Le magicien peut utiliser cette\
+    \ capacité pendant un nombre de rounds par jour égal à son niveau de magicien.\
+    \ Ces rounds ne doivent pas forcément être consécutifs. \r \t"
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.air%20(%c3%a9cole).ashx
+  
+- Nom: Suprématie aquatique (Sur)
+  École: Eau
+  Description: Le magicien gagne un bonus d’altération de +2 aux tests de Natation.
+    Ce bonus augmente de +1 par tranche de cinq niveaux de magicien. De plus, il peut
+    retenir sa respiration pendant un nombre de rounds égal à quatre fois sa valeur
+    de Constitution avant de devoir commencer à effectuer des tests contre la noyade.
+    Au niveau 10, il gagne une vitesse de nage égale à sa vitesse de déplacement de
+    base. Au niveau 20, chaque fois qu’il effectue un test de Natation, il peut considérer
+    que le dé indique un 20 naturel.
+  DescriptionHTML: ' Le magicien gagne un bonus d’altération de +2 aux tests de
+    Natation. Ce bonus augmente de +1 par tranche de cinq niveaux de magicien. De
+    plus, il peut retenir sa respiration pendant un nombre de rounds égal à quatre
+    fois sa valeur de Constitution avant de devoir commencer à effectuer des tests
+    contre la noyade. Au niveau 10, il gagne une vitesse de nage égale à sa vitesse
+    de déplacement de base. Au niveau 20, chaque fois qu’il effectue un test de Natation,
+    il peut considérer que le dé indique un 20 naturel.'
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.eau%20(%c3%a9cole).ashx
+  
+- Nom: Explosion de froid (Sur)
+  École: Eau
+  Description: Par une action simple, le magicien peut libérer un souffle de froid
+    glacial qui inflige 1d6 points de dégâts + 1 point par tranche de deux niveaux
+    de magicien à toutes les créatures dans un rayon de 1,50 m (1 c) autour de lui
+    et les rend chancelantes pendant 1 round. Un jet de Réflexes réussi permet d’annuler
+    l’état chancelant et de diviser les dégâts par deux. Le DD de ce jet de sauvegarde
+    vaut 10 + la moitié du niveau du magicien + son modificateur d’Intelligence. Il
+    peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur
+    d’Intelligence.
+  DescriptionHTML: ' Par une action simple, le magicien peut libérer un souffle
+    de froid glacial qui inflige 1d6 points de dégâts + 1 point par tranche de deux
+    niveaux de magicien à toutes les créatures dans un rayon de 1,50 m (1 c) autour
+    de lui et les rend chancelantes pendant 1 round. Un jet de Réflexes réussi permet
+    d’annuler l’état chancelant et de diviser les dégâts par deux. Le DD de ce jet
+    de sauvegarde vaut 10 + la moitié du niveau du magicien + son modificateur d’Intelligence.
+    Il peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur
+    d’Intelligence.'
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.eau%20(%c3%a9cole).ashx
+  
+- Nom: Vague (Sur)
+  École: Eau
+  Description: Au niveau 8, le magicien peut créer une vague d’eau qui apparaît
+    où il se trouve et se déplace de 9 m (6 c) par round en s’éloignant de lui dans
+    une direction qu’il choisit. Les créatures frappées par la vague peuvent être
+    jetées au sol et repoussées. Le magicien effectue un test de NLS contre le DMD
+    de chacune des créatures frappées. En cas de réussite, la créature est mise à
+    terre. Si le test de NLS dépasse le DMD de la créature de 5 points ou plus, celle-ci
+    est emportée par la vague tout au long du mouvement qu’elle effectue ce round
+    là. Si, au début du tour du magicien (c’est-à-dire lorsque la vague se déplace),
+    la cible occupe le même emplacement que la vague, il reçoit un bonus de +5 sur
+    son test de NLS. Les créatures emportées par la vague peuvent sortir de la vague
+    lors de leur tour de jeu si elles réussissent un test de Force contre un DD de
+    10 + la moitié du NLS du magicien + son modificateur d’Intelligence. Par contre,
+    elles ne peuvent pas respirer (de l’air) tant qu’elles occupent le même espace
+    que la vague. La vague a une hauteur de 6 m (4 c) et peut faire jusqu’à 1,50 m
+    (1 c) de long par niveau de magicien. Les feux non magiques touchés par la vague
+    sont automatiquement éteints. Les effets de feu magiques ne sont pas affectés.
+    Le magicien peut utiliser cette capacité un nombre de fois par jour égal à la
+    moitié de son niveau de magicien.
+  DescriptionHTML: " Au niveau 8, le magicien peut créer une vague d’eau qui apparaît\
+    \ où il se trouve et se déplace de 9 m (6 c) par round en s’éloignant de lui dans\
+    \ une direction qu’il choisit. Les créatures frappées par la vague peuvent être\
+    \ jetées au sol et repoussées. Le magicien effectue un test de NLS contre le DMD\
+    \ de chacune des créatures frappées. En cas de réussite, la créature est mise\
+    \ à terre. Si le test de NLS dépasse le DMD de la créature de 5 points ou plus,\
+    \ celle-ci est emportée par la vague tout au long du mouvement qu’elle effectue\
+    \ ce round là. Si, au début du tour du magicien (c’est-à-dire lorsque la vague\
+    \ se déplace), la cible occupe le même emplacement que la vague, il reçoit un\
+    \ bonus de +5 sur son test de NLS. Les créatures emportées par la vague peuvent\
+    \ sortir de la vague lors de leur tour de jeu si elles réussissent un test de\
+    \ Force contre un DD de 10 + la moitié du NLS du magicien + son modificateur d’Intelligence.\
+    \ Par contre, elles ne peuvent pas respirer (de l’air) tant qu’elles occupent\
+    \ le même espace que la vague. La vague a une hauteur de 6 m (4 c) et peut faire\
+    \ jusqu’à 1,50 m (1 c) de long par niveau de magicien. Les feux non magiques touchés\
+    \ par la vague sont automatiquement éteints. Les effets de feu magiques ne sont\
+    \ pas affectés. Le magicien peut utiliser cette capacité un nombre de fois par\
+    \ jour égal à la moitié de son niveau de magicien. \r \t"
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.eau%20(%c3%a9cole).ashx
+  
+- Nom: Suprématie ignée (Sur)
+  École: Feu
+  Description: Le magicien gagne une résistance au feu de 5 points. Au niveau 10,
+    celle-ci passe à 10 points. Au niveau 20, il est immunisé contre le feu. De plus,
+    chaque fois qu’il se trouve à 1,50 m (1 c) d’un feu au moins aussi grand qu’un
+    feu de camp, il peut attirer le feu tout autour de lui pendant 1 round par une
+    action rapide. Toutes les créatures qui attaquent le magicien avec une arme de
+    corps à corps ou une arme naturelle subissent des dégâts de feu égaux à la moitié
+    de son niveau de magicien (minimum 1). Les armes à allonge permettent d’éviter
+    ces dégâts.
+  DescriptionHTML: ' Le magicien gagne une résistance au feu de 5 points. Au niveau
+    10, celle-ci passe à 10 points. Au niveau 20, il est immunisé contre le feu. De
+    plus, chaque fois qu’il se trouve à 1,50 m (1 c) d’un feu au moins aussi grand
+    qu’un feu de camp, il peut attirer le feu tout autour de lui pendant 1 round par
+    une action rapide. Toutes les créatures qui attaquent le magicien avec une arme
+    de corps à corps ou une arme naturelle subissent des dégâts de feu égaux à la
+    moitié de son niveau de magicien (minimum 1). Les armes à allonge permettent d’éviter
+    ces dégâts.'
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.feu%20(%c3%a9cole).ashx
+  
+- Nom: Jet de flammes (Sur)
+  École: Feu
+  Description: Par une action simple, le magicien peut projeter une ligne de 6 m
+    (4 c) de feu. Toutes les créatures située sur cette ligne subissent 1d6 points
+    de dégâts de feu + 1 point par tranche de deux niveaux de magicien. Un jet de
+    Réflexes réussi permet de diviser les dégâts par deux. Le DD de ce jet de sauvegarde
+    vaut 10 + la moitié du niveau du magicien + son modificateur d’Intelligence. Les
+    créatures qui ratent ce jet de sauvegarde prennent feu et subissent 1d6 points
+    de dégâts de feu lors du round suivant. Les créatures qui prennent feu peuvent
+    utiliser une action complexe pour tenter d’éteindre les flammes, ce qui nécessite
+    un jet de Réflexes de DD 15. Le fait de se rouler sur le sol donne un bonus de
+    circonstances de +2 sur ce test. Si la créature est arrosée d’eau, les flammes
+    sont automatiquement éteintes. Le magicien peut utiliser cette capacité un nombre
+    de fois par jour égal à 3 + son modificateur d’Intelligence.
+  DescriptionHTML: ' Par une action simple, le magicien peut projeter une ligne
+    de 6 m (4 c) de feu. Toutes les créatures située sur cette ligne subissent 1d6
+    points de dégâts de feu + 1 point par tranche de deux niveaux de magicien. Un
+    jet de Réflexes réussi permet de diviser les dégâts par deux. Le DD de ce jet
+    de sauvegarde vaut 10 + la moitié du niveau du magicien + son modificateur d’Intelligence.
+    Les créatures qui ratent ce jet de sauvegarde prennent feu et subissent 1d6 points
+    de dégâts de feu lors du round suivant. Les créatures qui prennent feu peuvent
+    utiliser une action complexe pour tenter d’éteindre les flammes, ce qui nécessite
+    un jet de Réflexes de DD 15. Le fait de se rouler sur le sol donne un bonus de
+    circonstances de +2 sur ce test. Si la créature est arrosée d’eau, les flammes
+    sont automatiquement éteintes. Le magicien peut utiliser cette capacité un nombre
+    de fois par jour égal à 3 + son modificateur d’Intelligence.'
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.feu%20(%c3%a9cole).ashx
+  
+- Nom: Flammes dansantes (Sur)
+  École: Feu
+  Description: Au niveau 8, le magicien peut sculpter le feu selon ses désirs. Une
+    utilisation de cette capacité permet de déplacer n’importe quel feu non magique
+    sur une distance d’au plus 9 m (6 c). Au lieu de cela, le magicien peut utiliser
+    cette capacité pour modifier un sort de feu de durée instantanée au moment où
+    il le lance et ainsi retirer n’importe quel nombre de cases de sa zone d’effet.
+    Si le sort de feu possède une durée autre que « instantané », le magicien peut
+    utiliser cette capacité pour repositionner le sort au sein de sa portée originale
+    (cela fonctionne comme si le magicien venait de relancer le sort, mais la durée
+    n’est pas réinitialisée). Le magicien ne peut pas utiliser cette capacité pour
+    affecter un sort qu’il n’a pas lancé lui-même. S’il déplace un feu non magique,
+    celui-ci doit atteindre une nouvelle source combustible. Si ce n’est pas le cas,
+    il s’éteint après un round. Le magicien peut utiliser cette capacité un nombre
+    de fois par jour égal à la moitié de son niveau de magicien.
+  DescriptionHTML: " Au niveau 8, le magicien peut sculpter le feu selon ses désirs.\
+    \ Une utilisation de cette capacité permet de déplacer n’importe quel feu non\
+    \ magique sur une distance d’au plus 9 m (6 c). Au lieu de cela, le magicien peut\
+    \ utiliser cette capacité pour modifier un sort de feu de durée instantanée au\
+    \ moment où il le lance et ainsi retirer n’importe quel nombre de cases de sa\
+    \ zone d’effet. Si le sort de feu possède une durée autre que « instantané »,\
+    \ le magicien peut utiliser cette capacité pour repositionner le sort au sein\
+    \ de sa portée originale (cela fonctionne comme si le magicien venait de relancer\
+    \ le sort, mais la durée n’est pas réinitialisée). Le magicien ne peut pas utiliser\
+    \ cette capacité pour affecter un sort qu’il n’a pas lancé lui-même. S’il déplace\
+    \ un feu non magique, celui-ci doit atteindre une nouvelle source combustible.\
+    \ Si ce n’est pas le cas, il s’éteint après un round. Le magicien peut utiliser\
+    \ cette capacité un nombre de fois par jour égal à la moitié de son niveau de\
+    \ magicien. \r \t"
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.feu%20(%c3%a9cole).ashx
+  
+- Nom: Nuage acide (Sur)
+  École: Terre
+  Description: Par une action simple, le magicien peut créer un nuage de vapeurs
+    acides de 1,50 m (1 c) de rayon à une distance maximale de 9 m (6 c). Ce nuage,
+    qui perdure pendant 1 round, inflige 1d6 points de dégâts d’acide + 1 point par
+    tranche de deux niveaux de magicien à toutes les créatures situées dans sa zone
+    et les rend fiévreuses pendant 1 round. Un jet de Vigueur réussi permet d’annuler
+    l’effet fiévreux et de diviser les dégâts par deux. Le DD de ce jet de sauvegarde
+    vaut 10 + la moitié du niveau du magicien + son modificateur d’Intelligence. Les
+    créatures qui commencent leur tour au sein du nuage peuvent en sortir sans problème,
+    mais celles qui y pénètrent sont affectées. Le magicien peut utiliser cette capacité
+    un nombre de fois par jour égal à 3 + son modificateur d’Intelligence.
+  DescriptionHTML: ' Par une action simple, le magicien peut créer un nuage de vapeurs
+    acides de 1,50 m (1 c) de rayon à une distance maximale de 9 m (6 c). Ce nuage,
+    qui perdure pendant 1 round, inflige 1d6 points de dégâts d’acide + 1 point par
+    tranche de deux niveaux de magicien à toutes les créatures situées dans sa zone
+    et les rend fiévreuses pendant 1 round. Un jet de Vigueur réussi permet d’annuler
+    l’effet fiévreux et de diviser les dégâts par deux. Le DD de ce jet de sauvegarde
+    vaut 10 + la moitié du niveau du magicien + son modificateur d’Intelligence. Les
+    créatures qui commencent leur tour au sein du nuage peuvent en sortir sans problème,
+    mais celles qui y pénètrent sont affectées. Le magicien peut utiliser cette capacité
+    un nombre de fois par jour égal à 3 + son modificateur d’Intelligence.'
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.terre%20(%c3%a9cole).ashx
+  
+- Nom: Nage dans la pierre (Sur)
+  École: Terre
+  Description: Au niveau 8, le magicien devient capable de se déplacer à travers
+    la terre, la poussière et la pierre pendant un nombre de rounds par jour égal
+    à son niveau de magicien (ces rounds ne doivent pas forcément être consécutifs).
+    Il ne peut pas traverser les zones de terre ou de pierre ouvragée, seulement les
+    substances à l’état naturel. Si la durée totale de cette capacité expire avant
+    que le magicien ne sorte de la terre, il est renvoyé vers l’endroit où il a pénétré
+    dans la pierre, subit 4d6 points de dégâts et est étourdi pendant 1 round. Le
+    passage du magicien ne laisse pas de tunnel ni de trace de sa présence (il peut
+    cependant être détecté par les créatures capables de perception des vibrations).
+  DescriptionHTML: " Au niveau 8, le magicien devient capable de se déplacer à travers\
+    \ la terre, la poussière et la pierre pendant un nombre de rounds par jour égal\
+    \ à son niveau de magicien (ces rounds ne doivent pas forcément être consécutifs).\
+    \ Il ne peut pas traverser les zones de terre ou de pierre ouvragée, seulement\
+    \ les substances à l’état naturel. Si la durée totale de cette capacité expire\
+    \ avant que le magicien ne sorte de la terre, il est renvoyé vers l’endroit où\
+    \ il a pénétré dans la pierre, subit 4d6 points de dégâts et est étourdi pendant\
+    \ 1 round. Le passage du magicien ne laisse pas de tunnel ni de trace de sa présence\
+    \ (il peut cependant être détecté par les créatures capables de perception des\
+    \ vibrations). \r \t"
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.terre%20(%c3%a9cole).ashx
+  
+- Nom: Peau de fer (Sur)
+  École: Métal
+  Description: Le personnage gagne un bonus d’armure de +2 à la CA pendant 10 minutes.
+    Il augmente de +1 tous les cinq niveaux de lanceur de sorts (+6 au maximum au
+    niveau 20). Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois
+    égal à 3 + modificateur d’Intelligence.
+  DescriptionHTML: ' Le personnage gagne un bonus d’armure de +2 à la CA pendant
+    10 minutes. Il augmente de +1 tous les cinq niveaux de lanceur de sorts (+6 au
+    maximum au niveau 20). Chaque jour, le personnage peut utiliser ce pouvoir un
+    nombre de fois égal à 3 + modificateur d’Intelligence. '
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.m%c3%a9tal%20(%c3%a9cole).ashx
+  
+- Nom: Éclats de ferraille (Sur)
+  École: Métal
+  Description: Au niveau 8, le magicien peut, par une action rapide, faire jaillir
+    des débris de métal tranchants de son corps. Ils infligent 1d6 points de dégâts
+    perforants par tranche de deux niveaux de magicien (1d6 au minimum) à toutes les
+    créatures qui se trouvent dans un rayon de 3 mètres (2c). Jet de Réflexes 1/2
+    dégâts. De plus, les débris métalliques rendent le terrain difficile jusqu’au
+    prochain tour du personnage (ils disparaissent ensuite). Le magicien peut utiliser
+    ce pouvoir une fois par jour et une fois de plus au niveau 13 et au niveau 18.
+    Au niveau 10, les éclats ignorent la réduction de dégâts, comme des armes magiques.
+  DescriptionHTML: ' Au niveau 8, le magicien peut, par une action rapide, faire
+    jaillir des débris de métal tranchants de son corps. Ils infligent 1d6 points
+    de dégâts perforants par tranche de deux niveaux de magicien (1d6 au minimum)
+    à toutes les créatures qui se trouvent dans un rayon de 3 mètres (2c). Jet de
+    Réflexes 1/2 dégâts. De plus, les débris métalliques rendent le terrain difficile
+    jusqu’au prochain tour du personnage (ils disparaissent ensuite). Le magicien
+    peut utiliser ce pouvoir une fois par jour et une fois de plus au niveau 13 et
+    au niveau 18. Au niveau 10, les éclats ignorent la réduction de dégâts, comme
+    des armes magiques. '
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.m%c3%a9tal%20(%c3%a9cole).ashx
+  
+- Nom: Altération flexible (Sur)
+  École: Bois
+  Description: Un maître du bois est capable de ployer comme un roseau sous la contrainte
+    et de reprendre sa place initiale d’un geste. Il gagne un bonus d’altération de
+    +1 à la Dextérité, la Constitution ou la Sagesse. Ce bonus augmente de +1 tous
+    les cinq niveaux de magicien, avec un maximum de +5 au niveau 20. Le magicien
+    peut attribuer ce bonus à une nouvelle caractéristique quand il prépare ses sorts.
+    Au niveau 20, ce bonus s’applique à deux de ces caractéristiques, au choix.
+  DescriptionHTML: ' Un maître du bois est capable de ployer comme un roseau sous
+    la contrainte et de reprendre sa place initiale d’un geste. Il gagne un bonus
+    d’altération de +1 à la Dextérité, la Constitution ou la Sagesse. Ce bonus augmente
+    de +1 tous les cinq niveaux de magicien, avec un maximum de +5 au niveau 20. Le
+    magicien peut attribuer ce bonus à une nouvelle caractéristique quand il prépare
+    ses sorts. Au niveau 20, ce bonus s’applique à deux de ces caractéristiques, au
+    choix.'
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.bois%20(%c3%a9cole).ashx
+  
+- Nom: Lance brisée (Sur)
+  École: Bois
+  Description: Le magicien peut, par une action simple, créer un épieu de bois adapté
+    à sa taille. Il fait une attaque à distance pour le lancer contre toute cible
+    située dans les 30 mètres (20c) (il faut appliquer les malus de distance) et utilise
+    son bonus d’Intelligence comme bonus d’attaque au lieu de son modificateur de
+    Force ou de Dextérité. L’épieu inflige les dégâts requis pour sa taille, plus
+    le modificateur d'Intelligence, avant de se briser en milliers d’échardes. La
+    cible reçoit 1 point de saignement par round à son tour. Au niveau 6 puis tous
+    les six niveaux, l’épieu gagne un bonus d’altération de +1 et les dégâts de saignement
+    augmentent de +1. Chaque jour, le personnage peut utiliser ce pouvoir un nombre
+    de fois égal à 3 + modificateur d’Intelligence.
+  DescriptionHTML: ' Le magicien peut, par une action simple, créer un épieu de
+    bois adapté à sa taille. Il fait une attaque à distance pour le lancer contre
+    toute cible située dans les 30 mètres (20c) (il faut appliquer les malus de distance)
+    et utilise son bonus d’Intelligence comme bonus d’attaque au lieu de son modificateur
+    de Force ou de Dextérité. L’épieu inflige les dégâts requis pour sa taille, plus
+    le modificateur d''Intelligence, avant de se briser en milliers d’échardes. La
+    cible reçoit 1 point de saignement par round à son tour. Au niveau 6 puis tous
+    les six niveaux, l’épieu gagne un bonus d’altération de +1 et les dégâts de saignement
+    augmentent de +1. Chaque jour, le personnage peut utiliser ce pouvoir un nombre
+    de fois égal à 3 + modificateur d’Intelligence.'
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.bois%20(%c3%a9cole).ashx
+  
+- Nom: Défense coopérative (Sur)
+  École: Bois
+  Description: Au niveau 8, quand le magicien et un ou plusieurs alliés situés à
+    moins de 9 mètres (6c)  sont visés par un sort ou un effet, le magicien peut utiliser
+    ce pouvoir pour que les alliés se servent de son jet de sauvegarde à la place
+    du leur. Chaque allié doit faire ce choix individuellement avant de lancer les
+    dés. Ce pouvoir s’active par une action immédiate. Le magicien peut se servir
+    de ce pouvoir une fois par jour au niveau 8 et une fois de plus tous les quatre
+    niveaux de magicien au-delà du 8ème.
+  DescriptionHTML: " Au niveau 8, quand le magicien et un ou plusieurs alliés situés\
+    \ à moins de 9 mètres (6c)  sont visés par un sort ou un effet, le magicien peut\
+    \ utiliser ce pouvoir pour que les alliés se servent de son jet de sauvegarde\
+    \ à la place du leur. Chaque allié doit faire ce choix individuellement avant\
+    \ de lancer les dés. Ce pouvoir s’active par une action immédiate. Le magicien\
+    \ peut se servir de ce pouvoir une fois par jour au niveau 8 et une fois de plus\
+    \ tous les quatre niveaux de magicien au-delà du 8ème. \r \t"
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.bois%20(%c3%a9cole).ashx
+  
+- Nom: Révéler la faiblesse (Sur)
+  École: Néant
+  Description: Le personnage peut choisir une créature dans un rayon de 9 mètres
+    (6 c). La cible subit un malus à la CA et aux jets de sauvegarde égal à la moitié
+    du niveau de lanceur de sorts (minimum 1) pour 1 round. Chaque jour, le personnage
+    peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur d’Intelligence.
+  DescriptionHTML: ' Le personnage peut choisir une créature dans un rayon de 9
+    mètres (6 c). La cible subit un malus à la CA et aux jets de sauvegarde égal à
+    la moitié du niveau de lanceur de sorts (minimum 1) pour 1 round. Chaque jour,
+    le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur
+    d’Intelligence.'
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.n%c3%a9ant%20(%c3%a9cole).ashx
+  
+- Nom: Aura de prescience (Sur)
+  École: Néant
+  Description: Au niveau 8, le magicien peut émettre une aura de néant pendant un
+    nombre de rounds par jour égal à son niveau de magicien. Les alliés dans cet aura
+    gagnent un bonus d'intuition de +2 aux tests de caractéristique, jets d’attaque,
+    jets de dégâts, jets de sauvegarde et tests de compétence. Ces rounds ne doivent
+    pas forcément être consécutifs.
+  DescriptionHTML: " Au niveau 8, le magicien peut émettre une aura de néant pendant\
+    \ un nombre de rounds par jour égal à son niveau de magicien. Les alliés dans\
+    \ cet aura gagnent un bonus d'intuition de +2 aux tests de caractéristique, jets\
+    \ d’attaque, jets de dégâts, jets de sauvegarde et tests de compétence. Ces rounds\
+    \ ne doivent pas forcément être consécutifs. \r \t"
+  Référence: https://www.pathfinder-fr.org/wiki/pathfinder-rpg.n%c3%a9ant%20(%c3%a9cole).ashx
+  

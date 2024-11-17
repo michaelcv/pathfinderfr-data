@@ -543,11 +543,11 @@ def mergeYAML(origPath, matchOn, order, header, yaml2merge, ignoreFields = []):
     liste = []
     
     # lire le copyright (à intégrer en haut de chaque fichier)
-    with open('../data/COPYRIGHT.TXT', 'r') as file:
+    with open('../data/COPYRIGHT.TXT', 'r', encoding='utf-8') as file:
         COPY = file.read()
     
     # lire le fichier original avec lequel fusionner
-    with open(origPath, 'r') as stream:
+    with open(origPath, 'r', encoding='utf-8') as stream:
         try:
             liste = yaml.safe_load(stream)
             if not liste:
@@ -628,7 +628,7 @@ def mergeYAML(origPath, matchOn, order, header, yaml2merge, ignoreFields = []):
     result = result.replace("EMPTY: ''",'')
     
     # écrire le résultat dans le fichier d'origine
-    outFile = open(origPath, "w")
+    outFile = open(origPath, "w", encoding='utf-8')
     outFile.write(COPY + header + result)
 
 
